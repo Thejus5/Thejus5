@@ -1,5 +1,5 @@
 ---
-### Hi geeks 👋
+### Hi geeks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Thejus Satheesan, Engineer at [QBurst](https://www.google.com/ "QBurst Homepage"). I'm currently working as a front-end React developer. This is not my personal repository. This is my professional repository backed by QBurst.
 
