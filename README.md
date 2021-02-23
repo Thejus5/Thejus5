@@ -5,7 +5,7 @@ I'm Thejus Satheesan, Engineer at [QBurst](https://www.google.com/ "QBurst Homep
 
 If you want to visit my personal workshop, pay a visit to my repository
 
-<a href="https://www.github.com/BugmanPy" target="_blank"><img src="./assets/images/button.png" alt="BugmanPy github link" width="150" ></a>
+<a href="https://www.github.com/BugmanPy" target="_blank"><img src="./assets/images/buttonTwo.png" alt="BugmanPy github link" width="150" ></a>
 
 ---
 My Github stats 
