@@ -1,12 +1,10 @@
 ### Hi geeks 👋
 
-I'm Thejus Satheesan, Engineer at [QBurst](https://www.google.com/ "QBurst Homepage").
-
-I'm currently working as a front-end React developer. This is not my personal repository. This is my professional repository backed by QBurst.
+I'm Thejus Satheesan, Engineer at [QBurst](https://www.google.com/ "QBurst Homepage"). I'm currently working as a front-end React developer. This is not my personal repository. This is my professional repository backed by QBurst.
 
 If you want to visit my personal workshop, pay a visit to my repository
 
-<a href="www.github.com/BugmanPy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="www.github.com/BugmanPy" target="_blank"><img src="./assets/images/button.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 <!--
